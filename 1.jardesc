@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/exxxaar/OneDrive - Ericsson/Desktop/QATestAssignment/TestAssignements.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TestAssignments/1.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=TestAssignments/src=/optional=/true=/=/maven.pomderived=/true=/&lt;testPackage{TestRunner.java[TestRunner" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/TestAssignments/pom.xml"/>
+        <javaElement handleIdentifier="=TestAssignments/src=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/TestAssignments/.classpath"/>
+        <folder path="/TestAssignments/test-output"/>
+        <file path="/TestAssignments/.project"/>
+        <file path="/TestAssignments/testng.xml"/>
+        <folder path="/TestAssignments/bin"/>
+        <folder path="/TestAssignments/jar_files"/>
+        <folder path="/TestAssignments/target"/>
+    </selectedElements>
+</jardesc>
